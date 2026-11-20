@@ -1,0 +1,6 @@
+{
+  "name": "FlashGet Guard",
+  "description": "Parental control and family safety child companion app with real-time GPS telemetry, geofence alerts, app blocking, notification sync, and emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

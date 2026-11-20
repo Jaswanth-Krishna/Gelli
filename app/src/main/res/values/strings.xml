@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FlashGet Guard</string>
+    <string name="accessibility_service_label">FlashGet Guard App Blocker</string>
+    <string name="accessibility_service_description">Monitors active foreground applications to enforce parental control app blocking rules configured by your family guardian.</string>
+    <string name="notification_listener_label">FlashGet Guard Notification Sync</string>
+    <string name="notification_channel_safety_name">Family Safety Protection</string>
+    <string name="notification_channel_safety_desc">Persistent monitoring for real-time GPS location, safe zone alerts, and parent safety commands.</string>
+    <string name="service_notification_title">FlashGet Guard Active</string>
+    <string name="service_notification_text">Family safety protection is active and syncing telemetry.</string>
+    <string name="service_notification_alarm_text">Parent alarm is ringing! Open FlashGet Guard or await parent stop command.</string>
+    <string name="hero_subtitle">Child Safety Companion</string>
+    <string name="status_protected">Protection Active</string>
+    <string name="status_unpaired">Awaiting Pairing</string>
+    <string name="status_paired_standby">Paired · Standby</string>
+    <string name="pairing_section_title">Device Pairing</string>
+    <string name="pairing_section_subtitle">Enter the 6-digit code shown on your parent dashboard to link this device.</string>
+    <string name="pairing_code_label">6-Digit Pairing Code</string>
+    <string name="pairing_code_placeholder">000000</string>
+    <string name="btn_verify_and_start">Verify Code &amp; Start Protection</string>
+    <string name="btn_verifying">Verifying Code…</string>
+    <string name="quick_setup_title">Protection Permissions &amp; Services</string>
+    <string name="btn_disable_battery_opt">Disable Battery Optimization</string>
+    <string name="btn_disable_battery_opt_desc">Keep background telemetry running reliably</string>
+    <string name="btn_open_accessibility">Open Accessibility Settings</string>
+    <string name="btn_open_accessibility_desc">Enable App Blocker for restricted apps</string>
+    <string name="btn_open_notification_listener">Open Notification Listener Settings</string>
+    <string name="btn_open_notification_listener_desc">Enable Notification Sync to parent alerts</string>
+    <string name="emergency_section_title">Emergency Assistance</string>
+    <string name="btn_send_sos">Send Emergency SOS Alert</string>
+    <string name="btn_send_sos_desc">Immediately notifies your parent with an urgent SOS alert</string>
+    <string name="status_enabled">Enabled</string>
+    <string name="status_required">Setup Needed</string>
+    <string name="telemetry_section_title">Live Telemetry</string>
+    <string name="cd_shield_hero">Family safety radar shield visual</string>
+    <string name="cd_sos_icon">Emergency SOS alert icon</string>
+</resources>
